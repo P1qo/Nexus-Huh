@@ -5,5 +5,6 @@ local users = {
     "NexusGameBot",
     "stlxvy",
     "yycoolguy",
-    "speedstertm4m"
+    "speedstertm4m",
+    "DogMaster5919"
 }
